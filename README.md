@@ -17,11 +17,11 @@ _Em ìtalico_
 *Em itálico usando asterisco*
 
 Lista de Tarefas:
-- [x]Estudar 1 Hora
-- [x]Estudar git e github
-- [ ]Academia 1 Hora
+- [x] Estudar 1 Hora
+- [x] Estudar git e github
+- [ ] Academia 1 Hora
 
 Lista Numerada
 1. VAlter1
-2. VAlter2
-3. oi
+1. VAlter2
+1. oi
