@@ -30,3 +30,13 @@ Lista Demarcada
 * Testando
 * é apenas um teste
     * continua sendo um teste
+
+Nunca comece um código sem um `Hello World` antes
+
+Como por exemplo assim em ptyhon
+
+```
+
+print("hello world")
+
+```
