@@ -19,7 +19,7 @@ _Em ìtalico_
 Lista de Tarefas:
 - [x]Estudar 1 Hora
 - [x]Estudar git e github
-- []Academia 1 Hora
+- [ ]Academia 1 Hora
 
 Lista Numerada
 1. VAlter1
