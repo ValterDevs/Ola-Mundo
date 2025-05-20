@@ -25,3 +25,8 @@ Lista Numerada
 1. VAlter1
 1. VAlter2
 1. oi
+
+Lista Demarcada
+* Testando
+* é apenas um teste
+    * continua sendo um teste
